@@ -1,4 +1,5 @@
 # Count-Tf-Idf-Vectorizers
 Count Vectorizer
-Term frequency
-Inverse doc frequency
+Tf - Term frequency
+Idf - Inverse doc frequency
+In Idf, we can get the context of the sentence
